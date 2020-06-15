@@ -1,0 +1,24 @@
+#box-notifications{
+  margin-right: 15px;
+}
+
+#box-logout-button{
+  margin-right: 25px;
+}
+
+.logout-button {
+  color: #992A2A;
+}
+
+.logout-button:hover {
+  color: #D61818;
+}
+
+
+.no-visto {
+  background: rgba(123, 181, 217, 0.2);
+}
+
+.no-visto:hover {
+  background: rgba(123, 181, 217, 0.5);
+}

@@ -1,0 +1,130 @@
+.posicionSalaB {
+  /* background: #E7EAEE; */
+  background: #40C250;
+  width: 35px;
+  height: 35px;
+  border: 1px solid black;
+  padding: 7px;
+  cursor: pointer;
+  font-size: 12px;
+}
+
+.contenedorMapaSalaA{
+  display: flex;
+  padding-left: 0px;
+  margin-left: 0px;
+}
+
+.card {
+  padding-left: 0px;
+  margin-left: 0px;
+}
+#abc{
+  padding-left: 0px;
+  margin-left: 0px;
+}
+
+.columna2-sala-b{
+  display flex;
+  flex-direction: column;
+}
+.columna2-mampara1-sala-b{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.columna2-mampara2-sala-b{
+  margin-top: 25px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.columna3-mampara1-sala-b{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.columna3-mampara2-sala-b{
+  margin-top: 25px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.columna4-mampara1-sala-b{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.columna4-mampara2-sala-b{
+  margin-top: 25px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.columna5-mampara1-sala-b{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.columna5-mampara2-sala-b{
+  margin-top: 25px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.columna6-mampara1-sala-b{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.columna6-mampara2-sala-b{
+  margin-top: 25px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.columna7-mampara1-sala-b{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.columna7-mampara2-sala-b{
+  margin-top: 25px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.columna8-mampara1-sala-b{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.columna8-mampara2-sala-b{
+  margin-top: 25px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.columna9-mampara1-sala-b{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.columna9-mampara2-sala-b{
+  margin-top: 25px;
+  display: flex;
+  flex-direction: column;
+}
+.columna10-mampara1-sala-b{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.columna10-mampara2-sala-b{
+  margin-top: 25px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+.columna11-mampara1-sala-b{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.columna11-mampara2-sala-b{
+  margin-top: 25px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.columna12-mampara1-sala-b{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.columna12-mampara2-sala-b{
+  margin-top: 25px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}

@@ -1,0 +1,115 @@
+.contenedorMapaE40{
+  height: auto;
+  display: flex;
+
+}
+.posicionE40 {
+  background: #40C250;
+  width: 65px;
+  height: 50px;
+  border: 1px solid black;
+  padding: 7px;
+  margin: 0;
+  cursor: pointer;
+}
+.oficina1-e40{
+  width: 456px;
+  height: 90px;
+  border: 1px solid black;
+  border-right: none;
+  background: #8F8F90;
+  text-align: center;
+  padding-top: 30px;
+}
+.oficina2-e40{
+  width: 152px;
+  height: 110px;
+  border: 1px solid black;
+  border-right: none;
+  background: #8F8F90;
+  text-align: center;
+  padding-top: 30px;
+}
+.oficina3-e40{
+  width:195px;
+  height: 110px;
+  border: 1px solid black;
+  background: #8F8F90;
+  text-align: center;
+  padding-top: 30px;
+}
+.escaleras-e40{
+  height: 330px;
+  width:100px;
+  border: 1px solid black;
+  border-top: none;
+  background: #8F8F90;
+  text-align: center;
+  padding-left:15px;
+  font-size: 20px;
+  letter-spacing: 1.5px;
+  padding-top: 120px;
+}
+.rack-e40{
+  height: 75px;
+  width: 80px;
+  border: 1px solid black;
+  background: #8F8F90;
+  padding-left:10px;
+  font-size: 18px;
+  padding-top: 20px;
+}
+.mampara-e40 {
+  display: grid;
+  grid-template-columns: 7fr 1fr;
+}
+.mampara5-e40{
+  display: grid;
+  grid-template-columns: repeat(8, 1fr);
+}
+.posiciones-asesor-e40{
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+}
+.posicion-super-e40 .posicionE40 {
+  height: 100px;
+  text-align:center;
+  padding-top: 40px;
+}
+.columna1-e40 {
+  display: flex;
+  flex-direction: column;
+  width: 520px;
+}
+.columna1-fila1-e40 {
+  display: flex;
+  margin-bottom: 25px;
+}
+.columna1-fila2-e40 {
+  display: flex;
+  margin-bottom: 25px;
+}
+.columna1-fila3-e40 {
+  display: flex;
+  margin-bottom: 25px;
+}
+.columna1-fila4-e40 {
+  display: flex;
+  margin-bottom: 25px;
+}
+.columna1-fila5-e40 {
+  display: flex;
+  margin-bottom: 25px;
+}
+.columna2-fila2-e40{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+.columna2-fila3-e40{
+  margin-top: 12px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+
+}

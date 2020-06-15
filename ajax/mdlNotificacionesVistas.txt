@@ -1,0 +1,1 @@
+UPDATE notificaciones SET estado = visto WHERE usuario = 22 AND estado = 'no-visto'

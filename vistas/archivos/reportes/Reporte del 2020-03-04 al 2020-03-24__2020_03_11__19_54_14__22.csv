@@ -1,0 +1,8 @@
+Fecha_reporte, Local, Posicion, Usuario_reporta, Componente, Comentario_reporte, Usuario_atiende, Motivo_cambio, Fecha_resolucion, Comentario_resolucion, Estado
+2020-03-06 14:50:49,Sala A,149,Jordi Magaña,mouse,,Jordi Magaña,,2020-03-09 13:22:31,listo,cambiado
+2020-03-09 08:55:52,Sala A,149,Jordi Magaña,mouse,sss,Jordi Magaña,,2020-03-09 13:22:22,mouse cambiado,cambiado
+2020-03-09 08:56:07,Sala A,133,Jordi Magaña,mouse,abc,Jordi Magaña,,2020-03-09 13:20:51,listo,cambiado
+2020-03-09 08:56:33,Sala A,001,Jordi Magaña,mouse,wqdweqde,Jordi Magaña,,2020-03-09 14:13:17,,cambiado
+2020-03-10 10:02:34,Sala A,133,Jordi Magaña,diadena,falla,Jordi Magaña,Falla detectada,2020-03-10 10:02:34,falla,cambiado
+2020-03-10 11:28:25,Sala A,126,Jordi Magaña,diadena,falla en el cable,Jordi Magaña,,2020-03-10 11:29:18,,cambiado
+2020-03-10 11:30:27,Sala A,126,Jordi Magaña,mouse,trhrh,Jordi Magaña,Equipo nuevo,2020-03-10 11:30:27,trhrh,cambiado

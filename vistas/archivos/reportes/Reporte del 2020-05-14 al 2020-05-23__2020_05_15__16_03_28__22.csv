@@ -1,0 +1,9 @@
+Fecha_reporte, Local, Posicion, Usuario_reporta, Componente, Comentario_reporte, Usuario_atiende, Motivo_cambio, Fecha_resolucion, Comentario_resolucion, Estado
+2020-05-14 12:36:29,E-11,085,Jordi Magaña,monitor,no prende,Sistemas 1,,2020-05-14 12:37:18,Ya se cambio,cambiado
+2020-05-14 12:37:50,E - 40,612,Jordi Magaña,mouse,,Sistemas 1,,2020-05-14 12:41:40,,cambiado
+2020-05-14 12:41:56,E - 40,599,Jordi Magaña,mouse,,Sistemas 1,,2020-05-14 12:44:10,,cancelado
+2020-05-14 12:44:21,E - 40,600,Jordi Magaña,mouse,,Sistemas 1,,2020-05-14 12:44:28,,cancelado
+2020-05-14 12:51:06,E-11,085,Sistemas 1,teclado,,Sistemas 1,Equipo nuevo,2020-05-14 12:51:06,,cambiado
+2020-05-14 13:02:34,E-11,056,Jordi Magaña,mouse,,,,,,enviado
+2020-05-14 16:40:15,E-11,087,Jordi Magaña,monitor,no prende,Sistemas 1,,2020-05-14 16:43:17,fdceqdf,cambiado
+2020-05-14 17:02:05,E-11,091,Jordi Magaña,monitor,no prende,Sistemas 1,,2020-05-14 17:02:57,qdwsadewsq,cambiado

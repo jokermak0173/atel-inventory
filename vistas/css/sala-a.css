@@ -1,0 +1,64 @@
+.posicionSalaA {
+  /* background: #E7EAEE; */
+  background: #40C250;
+  width: 40px;
+  height: 40px;
+  border: 1px solid black;
+  padding: 7px;
+  cursor: pointer;
+}
+
+.mampara2-sala-a .posicionSalaADoble,
+.mampara3-sala-a .posicionSalaADoble,
+.mampara4-sala-a .posicionSalaADoble,
+.mampara5-sala-a .posicionSalaADoble,
+.mampara6-sala-a .posicionSalaADoble,
+.mampara7-sala-a .posicionSalaADoble,
+.mampara8-sala-a .posicionSalaADoble{
+  grid-column-start: 1;
+  grid-column-end: 3;
+  width: auto;
+  height: auto;
+  text-align: center;
+}
+
+.contenedorMapaSalaA{
+  display: flex;
+  justify-content: space-between;
+}
+.mampara1-sala-a{
+  display: flex;
+  flex-direction: column;
+}
+.mampara2-sala-a{
+  display: grid;
+  grid-template-columns:1fr 1fr;
+}
+.mampara3-sala-a{
+  display: grid;
+  grid-template-columns:1fr 1fr;
+}
+.mampara4-sala-a{
+  display: grid;
+  grid-template-columns:1fr 1fr;
+}
+.mampara5-sala-a{
+  display: grid;
+  grid-template-columns:1fr 1fr;
+}
+.mampara6-sala-a{
+  display: grid;
+  grid-template-columns:1fr 1fr;
+}
+.mampara7-sala-a{
+  display: grid;
+  grid-template-columns:1fr 1fr;
+}
+.mampara8-sala-a{
+  display: grid;
+  grid-template-columns:1fr 1fr;
+}
+.mampara9-sala-a{
+  display: flex;
+  flex-direction: column;
+}
